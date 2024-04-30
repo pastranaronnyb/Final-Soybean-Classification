@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+pillow
+python-dotenv
+opencv-python
+streamlit_webrt
