@@ -1,0 +1,10 @@
+0 Soybean
+1 Black Soybean
+2 Brown Soybean
+3 Canada Soybean
+4 Clsoy 1 Soybean
+5 Clsoy 2 Soybean
+6 Collection 1 Soybean
+7 Collection 2 Soybean
+8 Tiwala 10 Soybean
+9 Weeds
